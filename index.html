@@ -4,9 +4,68 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Covid-19 left me jobless - but what happened next? - BBC</title>
+    <style>
+        body {
+          font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        /* Style the header */
+        header {
+          padding: 30px;
+          text-align: center;
+          font-size: 35px;
+          color: white;
+        }
+        
+        /* Create two columns/boxes that floats next to each other */
+        nav {
+          float: left;
+          width: 30%;
+          height: 300px; /* only for demonstration, should be removed */
+          padding: 20px;
+        }
+        
+        /* Style the list inside the menu */
+        nav ul {
+          list-style-type: none;
+          padding: 0;
+        }
+        
+        article {
+          float: left;
+          padding: 20px;
+          width: 70%;
+          height: 300px; /* only for demonstration, should be removed */
+        }
+        
+        /* Clear floats after the columns */
+        section:after {
+          content: "";
+          display: table;
+          clear: both;
+        }
+        
+        /* Style the footer */
+        footer {
+          background-color: #777;
+          padding: 10px;
+          text-align: center;
+          color: white;
+        }
+        
+        /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+        @media (max-width: 600px) {
+          nav, article {
+            width: 100%;
+            height: auto;
+          }
+        }
+    </style>
 </head>
 <body>
-    <h1>Covid-19 left me jobless - but what happened next?</h1>
+    <header>
+        <h1>Covid-19 left me jobless - but what happened next?</h1>
+    </header>
     <address>
         By Katy Austin <br>
         Business correspondent
@@ -37,7 +96,7 @@
     <h1>'Covid worries'</h1>
     <p>When Junior Stewart from Luton spoke to the BBC in April, <a href="https://www.bbc.com/news/business-52242406" style="color:black;">he wasn't sure how he and his family would get by.</a></p>
     <p>Previously self-employed, he'd recently got a job in sales. The idea was to provide a more stable income, with his wife expecting their third child. However, at the end of February, he was made redundant, having not been in the job long enough to be furloughed.</p>
-    <img src="images/_114727526_juniorstewart.jpg" alt="Junior Stewart" style="max-width:100%;height:auto;">
+    <img src="images/_114727526_juniorstewart.jpg" alt="Junior Stewart">
     <p><q>While I was looking for work, we were surviving on my wife's maternity pay and Universal Credit - which took more than five weeks to arrive and didn't cover our outgoings,</q> he says.</p>
     <p><q>It was really difficult. Then when she returned to work and was furloughed, the UC disappeared.</q></p>
     <p>He adds: <q>People did approach me on LinkedIn about work and I had a few final-stage interviews. It felt like employers were being hesitant, they didn't know what would happen: one employer pulled a job I'd applied for.</q></p>
