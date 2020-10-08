@@ -4,16 +4,40 @@
 .firstnav_journalistname{
     color:black;
     display: block;
-    font-size: 12px;
+    font-size: 16px;
 }
 .firstnav_journalname{
     padding-top: 2px;
     color:grey;
     display: block;
-    font-size: 12px;
+    font-size: 16px;
 }
 .secondnav_dateandlinks{
     margin-top: 6px;
     padding-bottom: 3px;
     border-bottom: 1px solid grey;
+}
+.navdate{
+    text-align: left;
+    font-weight: lighter;
+}
+ul.navdate{
+    display: none;
+}
+li.navdate{
+    display: inline;
+    vertical-align: middle;
+    list-style: none;
+}
+.navlink{
+    display: none;
+    text-align: left;
+    vertical-align: middle;
+}
+li.navlink{
+    color:black;
+    padding: 4px;
+    border: 1px solid grey;
+    text-decoration: none;
+    display: inline;
 }
