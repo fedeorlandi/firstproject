@@ -25,7 +25,7 @@ ul.navdate{
     display: none;
 }
 li.navdate{
-    display: inline;
+    display: inline-block;
     vertical-align: middle;
     list-style: none;
 }
@@ -36,8 +36,8 @@ li.navdate{
 }
 li.navlink{
     color:black;
-    padding: 4px;
+    padding: 1px;
     border: 1px solid grey;
     text-decoration: none;
-    display: inline;
+    display: inline-block;
 }
