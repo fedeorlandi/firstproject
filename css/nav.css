@@ -28,6 +28,7 @@ li.navdate{
     display: inline-block;
     vertical-align: middle;
     list-style: none;
+    padding-bottom: 2px;
 }
 .navlink{
     display: none;
@@ -36,8 +37,30 @@ li.navdate{
 }
 li.navlink{
     color:black;
-    padding: 1px;
+    padding: 3 px;
     border: 1px solid grey;
-    text-decoration: none;
     display: inline-block;
 }
+a.navlink:link {
+    text-decoration: none;
+    background-color: white;
+    color: black;
+  }
+  
+a.navlink:visited {
+    text-decoration: none;
+    background-color: white;
+    color: black;
+  }
+  
+a.navlink:hover {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+  }
+  
+a.navlink.active {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+  }
