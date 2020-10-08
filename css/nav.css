@@ -4,9 +4,11 @@
 .firstnav_journalistname{
     color:black;
     display: block;
+    font-size: 10px;
 }
 .firstnav_journalname{
     padding-top: 2px;
     color:grey;
     display: block;
+    font-size: 10px;
 }
