@@ -13,16 +13,11 @@ body{
 /* Left and right column */
 .column.side {
   width: 25%;
+  display: inline;
 }
 
 /* Middle column */
 .column.middle {
   width: 50%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+  display: inline;
 }
