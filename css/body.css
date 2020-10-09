@@ -14,6 +14,18 @@ a.bodylinks:link{
     color:black;
     text-decoration: underline grey;
 }
+a.bodylinks:visited{
+    color:black;
+    text-decoration: underline grey;
+}
+a.bodylinks:hover{
+    color:blue;
+    text-decoration: underline grey;
+}
+a.bodylinks:active{
+    color:blue;
+    text-decoration: underline grey;
+}
 .listadesordenada{
     margin-top: 18px;
 }
