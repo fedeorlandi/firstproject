@@ -6,18 +6,19 @@
 .linksnavone a {
     color: #f2f2f2;
     text-align: center;
+    padding: 12px 8px;
     text-decoration: none;
     border-right: 1px white;
     font-weight: bold;
     background-color: rgba(82, 6, 6, 0.781));
-  }
+}
   
   /* Change color on hover */
-  .topnavone a:hover {
+.topnavone a:hover {
     text-decoration: underline white;
-  }
-  .format_colournav{
+}
+.format_colournav{
     margin: auto;
     width: 60%;
     background-color: rgba(82, 6, 6, 0.781));
-  }
+}
