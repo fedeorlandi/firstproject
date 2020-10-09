@@ -26,4 +26,10 @@
     padding: 20px;
     text-align: left;
     color:white;
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
+.format_header{
+    margin: auto;
+    width: 60%;
+}
