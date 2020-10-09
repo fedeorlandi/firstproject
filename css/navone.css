@@ -4,7 +4,10 @@
     height: 30px;
     background-color: rgb(109, 15, 15);
 }
-.linksnavone a {
+.format_li{
+    display: inline-block;
+}
+a.linksnavone:link {
     color: white;
     text-align: center;
     padding: 12px 8px;
@@ -14,21 +17,20 @@
     background-color:rgb(109, 15, 15);
     vertical-align: middle;
 }
-  
-  /* Change color on hover */
-
-.linksnavone a:link {
-    text-decoration: underline white;
+a.linksnavone:visited {
+    color: white;
+    text-align: center;
+    padding: 12px 8px;
+    text-decoration: none;
+    border-right: 1px white;
+    font-weight: bold;
+    background-color:rgb(109, 15, 15);
+    vertical-align: middle;
 }
-.linksnavone a:visited {
-    text-decoration: underline white;
-}
-
 .linksnavone a:hover {
         text-decoration: underline white;
 }
-.format_colournav{
-    margin: auto;
-    width: 60%;
-    background-color: rgb(109, 15, 15);
+.linksnavone a:active {
+    text-decoration: underline white;
 }
+
