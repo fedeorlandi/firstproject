@@ -1,7 +1,7 @@
 .format_navone{
     margin-top: 0px;
     width: 100%;
-    background-color: red;
+    background-color: rgb(78, 7, 7);
 }
 .linksnavone a {
     color: #f2f2f2;
@@ -10,20 +10,28 @@
     text-decoration: none;
     border-right: 1px white;
     font-weight: bold;
-    background-color: red;
+    background-color:rgb(78, 7, 7);;
 }
   
   /* Change color on hover */
-.linksnavone a:hover {
-    text-decoration: underline white;
-}
+
 .linksnavone a:link {
     text-decoration:none;
     color: white;
-    background-color: red;
+    background-color: rgb(78, 7, 7);
+}
+.linksnavone a:visited {
+    text-decoration:none;
+    color: white;
+    background-color: rgb(78, 7, 7);
+}
+
+
+.linksnavone a:hover {
+        text-decoration: underline white;
 }
 .format_colournav{
     margin: auto;
     width: 60%;
-    background-color: red);
+    background-color:rgb(78, 7, 7);
 }
