@@ -10,8 +10,14 @@
     color: black;
     font-weight: bold;
 }
-.body_links a:link{
+a.body_links:link{
     color:black;
     text-decoration: none;
 
+}
+.listadesordenada{
+    margin-top: 18px;
+}
+.title_h2{
+    margin-top: 32px;
 }
