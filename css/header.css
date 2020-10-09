@@ -1,6 +1,23 @@
 .principaltitle{
     font-size: 30px;
     color: black;
-    line-height: 1.0;
+    line-height: 1.15;
     font-weight: bold;
+}
+.undertitle{
+    margin-top: 16px;
+}
+.undertitle_jorunalist{
+    font-size: 14 px;
+    line-height: 1.23;
+    color: black;
+    font-weight: lighter;
+    display: inline-block;
+}
+.undertitle_journal{
+    font-size: 14px;
+    line-height: 1.23;
+    color: grey;
+    display: inline-block;
+    margin-top: 0px;
 }
