@@ -1,7 +1,9 @@
 .body_image{
     margin-top: 28px;
+    float: left;
+    left: 70%;
 }
-.womanimagen{
+.womanimage{
     height: auto;
     width: 100%;
 }
