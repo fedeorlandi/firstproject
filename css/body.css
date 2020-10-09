@@ -10,7 +10,7 @@
     color: black;
     font-weight: bold;
 }
-.body_links a:link{
+a.body_links:link{
     color:black;
     text-decoration: underline grey;
 }
