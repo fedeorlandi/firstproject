@@ -22,7 +22,7 @@ body{
   /* Clear floats after the columns */
 .row:after {
     content: "";
-    display: table;
+    display: inline-table;
     clear: both;
 }
 .column.side.div{
