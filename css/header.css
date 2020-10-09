@@ -54,7 +54,6 @@
 .redes{
     display: table-cell;
     text-align: right;
-    float: right;
 }
 .redesdos{
     display: inline-block;
@@ -71,6 +70,6 @@
     list-style: none;
 }
 .tamañoimagen{
-    height: 20px;
-    width: 20px;
+    height: 15px;
+    width: 15px;
 }
