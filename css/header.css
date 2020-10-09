@@ -21,3 +21,9 @@
     display: block;
     margin-top: 0px;
 }
+.header {
+    background-color: red;
+    padding: 20px;
+    text-align: left;
+    color:white;
+  }
