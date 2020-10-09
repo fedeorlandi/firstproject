@@ -37,3 +37,36 @@
     width: 100%;
     background-color: red;
 }
+.upperimage{
+    margin-top: 8px;
+    padding-bottom: 4px;
+    border-bottom: 1px solid grey;
+    width: 100 %;
+}
+.dateandredes{
+    display: table-row;
+}
+.dateone{
+    text-align: left;
+    vertical-align: center;
+    display: table-cell;
+}
+.redes{
+    display: table-cell;
+    text-align: right;
+}
+.redesdos{
+    display: inline-block;
+    position: relative;
+}
+.redestres{
+    display: inline-block;
+    vertical-align: middle;
+    list-style: none;
+}
+.imagenfacebook{
+    display: inline-block;
+    height: 44px;
+    width: 44px;
+    list-style: none;
+}
