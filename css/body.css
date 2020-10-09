@@ -13,18 +13,22 @@
 a.bodylinks:link{
     color:black;
     text-decoration: underline grey;
+    font-weight: bold;
 }
 a.bodylinks:visited{
     color:black;
     text-decoration: underline grey;
+    font-weight: bold;
 }
 a.bodylinks:hover{
     color:blue;
     text-decoration: underline grey;
+    font-weight: bold;
 }
 a.bodylinks:active{
     color:blue;
     text-decoration: underline grey;
+    font-weight: bold;
 }
 .listadesordenada{
     margin-top: 18px;
