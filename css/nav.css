@@ -39,7 +39,7 @@ li.navlink{
     color:black;
     padding: 3 px;
     border: 1px solid grey;
-    display: inline-block;
+    display: block;
 }
 a.navlink:link {
     text-decoration: none;
