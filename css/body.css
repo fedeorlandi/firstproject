@@ -5,3 +5,13 @@
     height: auto;
     width: 330px;
 }
+.body_introduction{
+    margin-top: 28px;
+    color: black;
+    font-weight: bold;
+}
+.body_links{
+    color:black;
+    text-decoration: none;
+
+}
