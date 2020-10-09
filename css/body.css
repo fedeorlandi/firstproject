@@ -12,8 +12,7 @@
 }
 a.body_links:link{
     color:black;
-    text-decoration: none;
-
+    text-decoration: underline grey;
 }
 .listadesordenada{
     margin-top: 18px;
