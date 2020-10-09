@@ -9,26 +9,19 @@
     text-align: center;
     padding: 12px 8px;
     text-decoration: none;
-    border-right: 10px white;
+    border-right: 1px white;
     font-weight: bold;
     background-color:rgb(109, 15, 15);
     vertical-align: middle;
-    margin-right: 8px;
 }
   
   /* Change color on hover */
 
 .linksnavone a:link {
-    text-decoration:none;
-    text-align: center;
-    color: white;
-    border-right: 1px white;
-    background-color: rgb(109, 15, 15);
+    text-decoration: underline white;
 }
 .linksnavone a:visited {
-    text-decoration:none;
-    color: white;
-    background-color: rgb(109, 15, 15);
+    text-decoration: underline white;
 }
 
 .linksnavone a:hover {
