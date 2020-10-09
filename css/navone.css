@@ -9,9 +9,11 @@
     text-align: center;
     padding: 12px 8px;
     text-decoration: none;
-    border-right: 1px white;
+    border-right: 10px white;
     font-weight: bold;
     background-color:rgb(109, 15, 15);
+    vertical-align: middle;
+    margin-right: 8px;
 }
   
   /* Change color on hover */
@@ -36,8 +38,4 @@
     margin: auto;
     width: 60%;
     background-color: rgb(109, 15, 15);
-}
-.format_total{
-    margin: auto;
-    width: 100%;
 }
