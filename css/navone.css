@@ -6,11 +6,9 @@
 .linksnavone a {
     color: #f2f2f2;
     text-align: center;
-    padding: 12px 8px;
     text-decoration: none;
     border-right: 1px white;
     font-weight: bold;
-    margin: auto;
     background-color: rgba(82, 6, 6, 0.781));
   }
   
