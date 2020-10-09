@@ -31,15 +31,15 @@ li.navdate{
     padding-bottom: 2px;
 }
 .navlink{
-    display: none;
+    /*display: none;*/
     text-align: left;
     vertical-align: middle;
 }
 li.navlink{
     color:black;
-    padding: 3 px;
+    padding: 10 px;
     border: 1px solid grey;
-    display: block;
+    display: inline-block;
 }
 a.navlink:link {
     text-decoration: none;
