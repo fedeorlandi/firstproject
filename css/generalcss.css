@@ -7,23 +7,18 @@ body{
 }
 /* Create three unequal columns that floats next to each other */
 .column {
-    float: left;
     padding: 10px;
   }
   /* Left and right column */
 .column.side {
     width: 25%;
+    display: inline;
   }
   /* Middle column */
 .column.middle {
     width: 50%;
+    display: inline;
   }
-  /* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
 .column.side.div{
   display: none;
 }
