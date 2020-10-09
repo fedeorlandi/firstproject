@@ -2,7 +2,7 @@
     margin-top: 28px;
     width: auto;
     margin-left: 0px;
-    float:left;
-    left: 70%;
+    position: relative;
+    display: block;
 
 }
