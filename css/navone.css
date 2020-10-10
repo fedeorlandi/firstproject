@@ -3,20 +3,21 @@
     background-color: rgba(97, 14, 14, 0.904);
 }
 .nav {
-    padding: 0px;
+    padding: 20px;
     text-align: left;
     color:white;
     padding-top: 5px;
     padding-bottom: 5px;
     font-size: 10px;
     font-weight: bold;
-    margin: 0px;
+    float: left;
+    margin: auto;
     width: 60%;
 }
 .format_li{
     display: inline-block;
     text-align: left;
-    magin right: 3px;
+    margin right: 3px;
     border-right: 2px solid white;
 }
 a.linksnavone:link {
