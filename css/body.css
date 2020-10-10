@@ -42,13 +42,17 @@ a.bodylinks:active{
     line-height: 1.6;
 }
 .relatedtopics{
-    margin-top: 5px;
+    margin-top: 2px;
     border-top: 1px solid grey;
     padding-top: 10px;
     padding-bottom: 5px;
     border-bottom: 1px solid grey;
     padding-left: 0px;
     margin-left: 0px;
+}
+.relatedtopics_div{
+    margin-left: 0px;
+    padding-left: 0px;
 }
 .relatedtopics_ul{
     list-style: none;
