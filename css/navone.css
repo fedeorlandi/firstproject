@@ -10,12 +10,11 @@
     padding-bottom: 5px;
     font-size: 10px;
     font-weight: bold;
-    float: left;
     margin: auto;
     width: 60%;
 }
 .format_li{
-    display: inline-block;
+    display: inline;
     text-align: left;
     margin right: 3px;
     border-right: 2px solid white;
