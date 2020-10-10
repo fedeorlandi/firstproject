@@ -31,9 +31,9 @@ a.linksnavone:visited {
     text-decoration: none;
 }
 a.linksnavone:hover {
-    text-decoration: underline white;
+    border-bottom: 2px solid red;
 }
 a.linksnavone:active {
-    text-decoration: underline white;
+    border-bottom: 2px solid red;
 }
 
