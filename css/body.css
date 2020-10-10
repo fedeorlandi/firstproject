@@ -84,3 +84,7 @@ a.relatedtopics_li:hover{
     background-color: blue;
     color:white;
 }
+.paises{
+    color:grey;
+    line-height: bold;
+}
