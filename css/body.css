@@ -50,3 +50,29 @@ a.bodylinks:active{
     padding-left: 0px;
     margin-left: 0px;
 }
+.relatedtopics_ul{
+    list-style: none;
+    display: inline;
+}
+.relatedtopics_li{
+    list-style: none;
+    margin-right: 5px;
+}
+a.relatedtopics_li:link{
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 8px;
+    border: 1px solid grey;
+    color: black;
+    text-decoration: none;
+}
+a.relatedtopics_li:visited{
+    margin: 0px;
+    padding: 5px;
+    border: 1px solid grey;
+    color: black;
+}
+a.relatedtopics_li:hover{
+    background-color: blue;
+    color:white;
+}
