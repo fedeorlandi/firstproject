@@ -4,11 +4,12 @@
 }
 .nav {
     background-color: rgba(97, 14, 14, 0.904);
+    padding: 20px;
     text-align: left;
     color:white;
     padding-top: 5px;
     padding-bottom: 5px;
-    font-size: 16px;
+    font-size: 10px;
     font-weight: bold;
     margin: auto;
     width: 60%;
@@ -21,7 +22,7 @@ a.linksnavone:link {
     color: white;
     text-align: left;
     text-decoration: none;
-    border-right: 10px white;
+    border-right: 2px white;
     font-weight: bold;
     vertical-align: middle;
 }
