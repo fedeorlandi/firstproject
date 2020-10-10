@@ -76,6 +76,8 @@
 .navlink{
     display: inline;
     list-style: none;
+    padding-left: 0px;
+    margin-left: 0px;
 }
 .navlinkli{
     list-style: none;
