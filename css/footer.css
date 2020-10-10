@@ -2,6 +2,8 @@
     background-color: grey;
     margin: auto;
     width: 60%;
+    margin-bottom: 0px;
+    padding: 20px;
 }
 .format_footer {
     clear: left; 
