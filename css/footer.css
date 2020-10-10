@@ -4,9 +4,17 @@
     width: 60%;
     margin-bottom: 0px;
     padding-bottom: 0px;
+    color: white;
 }
 .format_footer {
     clear: left; 
     width: 100%;
     background-color: grey;
+}
+.footer_letra{
+    font-weight: bold;
+}
+.footer_links{
+    font-weight: bold;
+    text-decoration: underline;
 }
