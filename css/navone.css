@@ -14,9 +14,9 @@
     width: 60%;
 }
 .format_li{
-    display: inline;
+    display: inline-block;
     text-align: left;
-    margin right: 3px;
+    margin: 5px;
     border-right: 2px solid white;
 }
 a.linksnavone:link {
@@ -24,15 +24,13 @@ a.linksnavone:link {
     text-align: left;
     text-decoration: none;
     font-weight: bold;
-    vertical-align: middle;
 }
 a.linksnavone:visited {
     color: white;
-    text-align: center;
+    text-align: left;
     padding: 12px 8px;
     text-decoration: none;
     font-weight: bold;
-    vertical-align: middle;
 }
 .linksnavone a:hover {
         text-decoration: underline white;
