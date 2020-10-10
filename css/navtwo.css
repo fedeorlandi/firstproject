@@ -31,8 +31,8 @@ a.linksnavtwo:visited {
     text-decoration: none;
 }
 a.linksnavtwo:hover {
-    border-bottom: 5px solid red;
+    border-bottom: 2px solid red;
 }
 a.linksnavtwo:active {
-    border-bottom: 5px solid red;
+    border-bottom: 2px solid red;
 }
