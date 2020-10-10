@@ -40,12 +40,12 @@
 .upperimage{
     margin-top: 8px;
     padding-bottom: 4px;
+    margin-bottom: 4px;
     border-bottom: 1px solid grey;
     width: 100%;
 }
 .dateandredes{
     display: table-row;
-    margin-bottom: 0px;
 }
 .dateone{
     text-align: left;
