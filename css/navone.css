@@ -15,7 +15,8 @@
 }
 .format_li{
     display: inline;
-    float: left;
+    position: absolute;
+    left: 0px;
     list-style: none;
     border-right: 2px solid white;
 }
