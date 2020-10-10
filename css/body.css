@@ -52,11 +52,12 @@ a.bodylinks:active{
 }
 .relatedtopics_ul{
     list-style: none;
-    display: inline;
+    display: inline-block;
 }
 .relatedtopics_li{
     list-style: none;
     margin-right: 5px;
+    display: inline-block;
 }
 a.relatedtopics_li:link{
     margin-top: 0px;
