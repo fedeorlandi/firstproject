@@ -16,6 +16,8 @@
 .format_li{
     display: inline;
     border-right: 2px solid white;
+    margin-right: 5px;
+    margin-left: 5px;
 }
 .format_list{
     list-style: none;
