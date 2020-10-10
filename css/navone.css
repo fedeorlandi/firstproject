@@ -12,10 +12,10 @@
     font-weight: bold;
     margin: auto;
     width: 60%;
-    float: left;
 }
 .format_li{
     display: inline;
+    float: left;
     list-style: none;
     border-right: 2px solid white;
 }
