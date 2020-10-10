@@ -4,7 +4,7 @@
 }
 .nav {
     padding: 20px;
-    text-align: left;
+    text-align: right;
     color:white;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -14,11 +14,8 @@
     width: 60%;
 }
 .format_li{
-    display: inline-block;
-    text-align: left;
+    display: inline;
     list-style: none;
-    margin-right: 5px;
-    margin-left: 5px;
     border-right: 2px solid white;
 }
 a.linksnavone:link {
