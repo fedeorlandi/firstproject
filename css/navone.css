@@ -3,7 +3,7 @@
     background-color: rgba(97, 14, 14, 0.904);
 }
 .nav {
-    padding: 20px;
+    padding: 10px;
     text-align: left;
     color:white;
     padding-top: 5px;
@@ -17,7 +17,7 @@
     display: inline-block;
     text-align: left;
     list-style: none;
-    margin: 0px;
+    margin: 5px;
     border-right: 2px solid white;
 }
 a.linksnavone:link {
@@ -28,10 +28,10 @@ a.linksnavone:visited {
     color: white;
     text-decoration: none;
 }
-.linksnavone a:hover {
-        text-decoration: underline white;
+a.linksnavone:hover {
+    text-decoration: underline white;
 }
-.linksnavone a:active {
+a.linksnavone:active {
     text-decoration: underline white;
 }
 
