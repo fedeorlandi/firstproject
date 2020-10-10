@@ -4,6 +4,7 @@
     width: 60%;
 }
 .format_footer {
+    clear: leaf; 
     width: 100%;
     background-color: grey;
 }
