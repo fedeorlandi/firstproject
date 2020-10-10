@@ -79,6 +79,20 @@
 }
 .navlinkli{
     list-style: none;
-    border: 1px solid black;
-
+}
+a.navlinkli:link{
+    margin: 0px;
+    padding: 5px;
+    border: 1px solid grey;
+    color: black;
+}
+a.navlinkli:visited{
+    margin: 0px;
+    padding: 5px;
+    border: 1px solid grey;
+    color: black;
+}
+a.navlinkli:hover{
+    background-color: blue;
+    color:white;
 }
