@@ -86,5 +86,5 @@ a.relatedtopics_li:hover{
 }
 .paises{
     color:grey;
-    line-height: bold;
+    font-weight: bold;
 }
