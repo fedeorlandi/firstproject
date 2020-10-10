@@ -1,7 +1,7 @@
 .body_image{
     margin-top: 28px;
-    position: relative;
-    right: 20px;
+    position: absolute;
+    left: 0px;
 }
 .womanimage{
     height: auto;

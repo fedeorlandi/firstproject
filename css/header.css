@@ -54,8 +54,6 @@
 .redes{
     display: table-cell;
     text-align: right;
-    position: absolute;
-    right: 0px;
 }
 .redesdos{
     display: inline-block;
