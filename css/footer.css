@@ -18,3 +18,11 @@
     font-weight: bold;
     text-decoration: underline;
 }
+a.footer_links:link{
+    color: white;
+    text-decoration: underline white;
+}
+a.footer_links:visited{
+    color: white;
+    text-decoration: underline white;
+}
