@@ -43,23 +43,33 @@
     border-bottom: 1px solid grey;
     width: 100%;
 }
-.columndate{
-    float: left;
-    width: 70%;
-    padding-top: 32px;
-  }
-.columnredes{
-    float: right;
-    width: 30%;
+.dateandredes{
+    display: table-row;
 }
-.redeslist {
-    display:inline-block;
+.dateone{
+    text-align: left;
+    vertical-align: center;
+    display: table-cell;
+}
+.redes{
+    display: table-cell;
+    text-align: right;
+}
+.redesdos{
+    display: inline-block;
+    position: relative;
+}
+.redestres{
+    display: inline-block;
+    vertical-align: middle;
+    list-style: none;
+}
+.imagen{
+    display: inline-block;
+    border-right: black;
     list-style: none;
 }
 .tamañoimagen{
     height: 20px;
     width: 20px;
-}
-.imagen{
-    display: inline;
 }
