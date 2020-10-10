@@ -6,27 +6,33 @@
     background-color: rgba(97, 14, 14, 0.904);
     text-align: left;
     color:white;
-    font-size: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 16px;
     font-weight: bold;
     margin: auto;
     width: 60%;
 }
 .format_li{
     display: inline-block;
+    text-align: left;
 }
 a.linksnavone:link {
     color: white;
     text-align: left;
     text-decoration: none;
-    border-right: 1px white;
+    border-right: 10px white;
     font-weight: bold;
+    vertical-align: middle;
 }
 a.linksnavone:visited {
     color: white;
-    text-align: left;
+    text-align: center;
+    padding: 12px 8px;
     text-decoration: none;
     border-right: 1px white;
     font-weight: bold;
+    vertical-align: middle;
 }
 .linksnavone a:hover {
         text-decoration: underline white;
