@@ -1,11 +1,9 @@
 .body_image{
     margin-top: 28px;
-    position: absolute;
-    left: 0px;
 }
 .womanimage{
-    height: auto;
-    width: 100%;
+    margin-left: 0px;
+    padding-left: 0px;
 }
 .body_introduction{
     margin-top: 28px;
