@@ -4,7 +4,7 @@
 }
 .nav {
     padding: 20px;
-    text-align: right;
+    text-align: left;
     color:white;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -12,6 +12,7 @@
     font-weight: bold;
     margin: auto;
     width: 60%;
+    float: left;
 }
 .format_li{
     display: inline;
