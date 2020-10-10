@@ -63,7 +63,7 @@
     display: inline-block;
     vertical-align: middle;
     list-style: none;
-    float: left;
+    float: right;
 }
 .imagen{
     display: inline-block;
