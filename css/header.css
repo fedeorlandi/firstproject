@@ -63,6 +63,7 @@
     display: inline-block;
     vertical-align: middle;
     list-style: none;
+    float: left;
 }
 .imagen{
     display: inline-block;
@@ -70,6 +71,6 @@
     list-style: none;
 }
 .tamañoimagen{
-    height: 15px;
-    width: 15px;
+    height: 20px;
+    width: 20px;
 }
