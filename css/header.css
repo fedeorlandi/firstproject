@@ -79,11 +79,11 @@
 }
 .navlinkli{
     list-style: none;
+    margin-bottom: 2px;
 }
 a.navlinkli:link{
     margin-top: 0px;
     margin-left: 0px;
-    margin-bottom: 2px;
     padding: 8px;
     border: 1px solid grey;
     color: black;
