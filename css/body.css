@@ -2,7 +2,9 @@
     margin-top: 28px;
     margin-left: 0px;
     padding-left: 0px;
-    width: 300px;
+}
+.womanimage{
+    width: fit-content;
 }
 .body_introduction{
     margin-top: 28px;
