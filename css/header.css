@@ -62,13 +62,14 @@
 .redestres{
     display: inline-block;
     vertical-align: middle;
-    list-style: none;
-    float: right;
+    list-style: none;   
 }
 .imagen{
     display: inline-block;
     border-right: black;
     list-style: none;
+    position: absolute;
+    right: 0px;
 }
 .tamañoimagen{
     height: 20px;
