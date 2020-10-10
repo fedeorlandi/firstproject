@@ -3,7 +3,6 @@
     background-color: rgba(97, 14, 14, 0.904);
 }
 .nav {
-    background-color: rgba(97, 14, 14, 0.904);
     padding: 20px;
     text-align: left;
     color:white;
@@ -17,12 +16,14 @@
 .format_li{
     display: inline-block;
     text-align: left;
+    magin right: 3px;
+    border-right: 2px solid white;
 }
 a.linksnavone:link {
     color: white;
     text-align: left;
     text-decoration: none;
-    border-right: 2px white;
+    border-right: 3px solid white;
     font-weight: bold;
     vertical-align: middle;
 }
