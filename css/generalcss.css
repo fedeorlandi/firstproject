@@ -13,10 +13,6 @@ body{
 }
 .columnprimary{
   float: left;
-  width: 70%;
+  width: 100%;
   padding-top: 32px;
-}
-.columnsecond{
-  float: right;
-  width: 30%;
 }
