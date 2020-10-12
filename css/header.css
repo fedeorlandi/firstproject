@@ -51,25 +51,25 @@
     vertical-align: center;
     display: table-cell;
 }
-.redes{
+.network{
     display: table-cell;
     text-align: right;
 }
-.redesdos{
+.networktwo{
     display: inline-block;
     position: relative;
 }
-.redestres{
+.networkthree{
     display: inline-block;
     vertical-align: middle;
     list-style: none;
 }
-.imagen{
+.displayimage{
     display: inline-block;
     border-right: black;
     list-style: none;
 }
-.tamañoimagen{
+.sizeimage{
     height: 20px;
     width: 20px;
 }
